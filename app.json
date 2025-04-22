@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "intern-assignment---2",
+    "slug": "snack-40081b70-d617-46ad-ad2f-fdb9724ef23c",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.harjith.snack40081b70d61746adad2ffdb9724ef23c"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "995ec954-c67c-4371-9ede-1bb96340fbe3"
+      }
+    }
+  }
+}
